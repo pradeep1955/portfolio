@@ -50,6 +50,6 @@ I’m open to freelance projects (hourly or fixed-price), especially:
 - API integration work
 - Python backend tasks
 
-📫 Contact: your-email@example.com  
+📫 Contact: prdpchowdhary@gmail.com  
 🔗 LinkedIn: your-linkedin-url  
 🌐 GitHub: https://github.com/pradeep1955
