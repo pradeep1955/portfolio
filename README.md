@@ -1,30 +1,55 @@
 # Hi, I'm Pradeep 👋
-### Python/Django Developer & IoT Specialist
+### Python/Django Web Developer (AI-Assisted)
 
-I help businesses build reliable Django web apps, Python automation tools, and IoT-integrated solutions.
+I build practical web solutions using Python and Django, with an AI-assisted workflow for faster delivery.  
+I personally review, debug, and test all code before final handoff.
 
-## What I Can Help You Build
-- Django websites and web apps
-- REST APIs and backend integrations
-- Python automation scripts (data cleanup, workflows, reporting)
-- IoT dashboards and sensor-data applications
-- AWS deployment and production support
+## About Me
+- Coursera-trained in Django
+- Focused on business websites, backend features, and API-based applications
+- Interested in real-world projects where clean delivery and reliability matter
+
+## Services I Offer
+- Django website development
+- Backend/API development (Django + DRF)
+- Python automation scripts
+- Bug fixes and feature improvements
+- Deployment support (basic)
 
 ## Featured Projects
-- **Django Business Website** – Responsive business site with admin panel and contact workflow.  
+> Replace these with your real repository links.
+
+- **Django Business Website Demo**  
+  A responsive website with forms, admin management, and clean UI.  
   [Repository Link]
-- **Python Automation Toolkit** – Scripts for data processing/report generation.  
+
+- **Django REST API Starter**  
+  Starter backend with authentication and CRUD endpoints.  
   [Repository Link]
-- **Django REST API Starter** – Auth, CRUD, and production-ready API structure.  
+
+- **Python Automation Scripts**  
+  Utility scripts for repetitive tasks and simple data workflows.  
   [Repository Link]
-- **IoT Sensor Dashboard** – Device data ingestion + web dashboard visualization.  
+
+- **IoT Dashboard Prototype**  
+  Demo for collecting and displaying device/sensor data.  
   [Repository Link]
 
 ## Tech Stack
-Python, Django, Django REST Framework, PostgreSQL, AWS, Pandas, Git, Linux
+Python, Django, Django REST Framework, PostgreSQL, Git, Linux, HTML, CSS, JavaScript
+
+## Work Style
+- Clear communication
+- Milestone-based delivery
+- Documented setup instructions
+- Post-delivery support for fixes
 
 ## Freelance Availability
-I’m available for freelance projects (fixed-price or hourly).
+I’m open to freelance projects (hourly or fixed-price), especially:
+- Django websites
+- API integration work
+- Python backend tasks
 
-📫 Contact: [prdpchowdhary@gmail.com]  
-🔗 LinkedIn: [your link]  
+📫 Contact: your-email@example.com  
+🔗 LinkedIn: your-linkedin-url  
+🌐 GitHub: https://github.com/pradeep1955
